@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsBotonProject", "TeamsBotonProject\TeamsBotonProject.csproj", "{BBDD4754-492C-47BE-AA38-08E21D20F0B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDD4754-492C-47BE-AA38-08E21D20F0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDD4754-492C-47BE-AA38-08E21D20F0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDD4754-492C-47BE-AA38-08E21D20F0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDD4754-492C-47BE-AA38-08E21D20F0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D59AD99-7826-433B-B14B-E2C030762C03}
+	EndGlobalSection
+EndGlobal
